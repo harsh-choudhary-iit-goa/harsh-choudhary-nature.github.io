@@ -1,16 +1,25 @@
-a:link{
+a:link {
   color: #0000FF;
 }
-a:hover{
-  color: red ;
+
+a:hover {
+  color: red;
 }
-a:visited{
+
+a:visited {
   color: purple;
 }
-a:active{
+
+a:active {
   color: yellow;
 }
-ul ol {
-  color:black;
-  list-style-position: center;
+
+ul {
+  color: black;
+  display: inline-block;
+  text-align: left;
+}
+
+div.container {
+  text-align: left;
 }
