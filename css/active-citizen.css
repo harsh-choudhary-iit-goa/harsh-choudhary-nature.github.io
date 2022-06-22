@@ -10,3 +10,7 @@ a:visited{
 a:active{
   color: yellow;
 }
+ul ol {
+  color:black;
+  list-style-position: center;
+}
